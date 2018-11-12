@@ -1,0 +1,1 @@
+[Node School](https://nodeschool.io) playground. Use `npx learnyounode` to launch course.
